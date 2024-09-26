@@ -19,7 +19,11 @@ public class StringStringBuffer {
      // }
 
      StringBuffer b = new StringBuffer("Hello");
-     b.append("hello");
+    //  b.append("hello");
+
+    for(int i = 0; i < b.length(); i++){
+
+    }
      
      System.out.println(b);
     }
