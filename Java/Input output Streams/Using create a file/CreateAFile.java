@@ -1,33 +1,31 @@
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Scanner;
+// import java.io.FileNotFoundException;
+// import java.io.FileWriter;
+// import java.io.IOException;
+// import java.util.Scanner;
 
 public class CreateAFile {
     public static void main(String[] args) {
         
-        // create a new file use file.createNewFile()
+        // create a new file using file.createNewFile()
 
         // File f = new File("./newFile.txt");
         // try {
         //     f.createNewFile();
         // } catch (IOException e) {
-        //     // TODO Auto-generated catch block
         //     e.printStackTrace();
         //     System.out.println("Error while creating a new file");
         // }
 
 
 
-        // write in a file use same wr.write
+        // write in a file using same wr.write
 
         // try {
         //     FileWriter wr = new FileWriter("newFile.txt");
         //     wr.write("this is our first file we written it using java program \n Okay now the second line we writting from here");
         //     wr.close();
         // } catch (IOException e) {
-        //     // TODO Auto-generated catch block
         //     e.printStackTrace();
         //     System.out.println("error while trying to write in a file");
         // }

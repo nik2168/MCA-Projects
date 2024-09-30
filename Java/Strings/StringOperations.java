@@ -40,6 +40,7 @@ public class StringOperations {
       String inpuString = sc.nextLine();
 
       String inpuString2 = sc.nextLine();
+      sc.close();
 
       CustomString a = new CustomString(inpuString);
       CustomString b = new CustomString(inpuString2);
