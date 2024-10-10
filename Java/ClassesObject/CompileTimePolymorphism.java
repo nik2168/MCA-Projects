@@ -1,5 +1,7 @@
 
 // This is a example of compile time polymorphism
+// function overloading
+
 class Sum{
     void printRes(int a, int b){
         System.out.println(a + b);

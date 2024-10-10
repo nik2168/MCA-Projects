@@ -1,3 +1,6 @@
+
+// by default classes are package private
+
 abstract class Shape{
 
    abstract double calculateArea();

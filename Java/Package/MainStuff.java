@@ -6,7 +6,7 @@ import first.Rectangle;
  // user to run the program
  // java = interpreter 
  // java is a compiler and a interpretor language
- // java code ->source code -> compiler -> byte code -> jvm(interpretor) -> machine code
+ // java code -> source code -> compiler -> byte code -> jvm(interpretor) -> machine code
  // javac present in jdk folder and to access the program that we made we need to keep our mai function public
 //  protected class can be accessable on the different package subclass only in java
 
